@@ -1,0 +1,21 @@
+{
+	"name": "etl-quiz-6",
+	"version": "1.0.0",
+	"description": "ETL Competition Testing #6",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/znmn/etl-quiz-6.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/znmn/etl-quiz-6/issues"
+	},
+	"homepage": "https://github.com/znmn/etl-quiz-6#readme"
+}
